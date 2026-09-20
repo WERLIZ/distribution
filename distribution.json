@@ -1,0 +1,38 @@
+{
+    "cache": [],
+    "cacheMode": [],
+    "projectName": "Touch Mobile",
+    "packageName": "com.touch.mobile.dark",
+    "versionHash": "v1.0",
+    "rss": "https://touch-rp.com/api/launcer/news",
+    "cdnCache": "https://game.touch-rp.com/mobile/cache",
+    "cdnLauncher": "https://game.touch-rp.com/mobile/launcher",
+    "filesContinue": ["settings.ini", "gta_sa.set", "svconfig.ini"],
+    "launcher": {
+        "appVersion": "0.0.16",
+        "name": "app-debug.apk",
+        "hash": "abc123",
+        "mtime": 1690000000,
+        "bytes": 50000000
+    },
+    "servers": [
+        {
+            "id": 1,
+            "show": true,
+            "version": "1.0",
+            "icon": "https://i.imgur.com/vHqB3PG.png",
+            "events": [
+                {
+                    "title": "Online",
+                    "style": "blue"
+                }
+            ],
+            "slot": 100,
+            "bonus": false,
+            "name": "My SAMP Server",
+            "description": "SA-MP Mobile Server",
+            "address": "51.83.49.125:24595",
+            "sampVersion": "0.3.7"
+        }
+    ]
+}
