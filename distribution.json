@@ -1,13 +1,33 @@
 {
-    "cache": [],
-    "cacheMode": [],
+    "cache": [
+        {
+            "id": 1,
+            "name": "gta_sa.set",
+            "path": "",
+            "bytes": [100],
+            "gpu": ""
+        }
+    ],
+    "cacheMode": [
+        {
+            "id": 1,
+            "name": "gta_sa.set",
+            "path": "",
+            "bytes": [100],
+            "gpu": ""
+        }
+    ],
     "projectName": "Touch Mobile",
     "packageName": "com.touch.mobile.dark",
     "versionHash": "v1.0",
-    "rss": "https://touch-rp.com/api/launcer/news",
+    "rss": "https://raw.githubusercontent.com/WERLIZ/distribution/main/news.json",
     "cdnCache": "https://drive.google.com/drive/folders/1Tk6Uhtf96_z_MwqyvJts7CXNxCr14AT3",
-    "cdnLauncher": "https://game.touch-rp.com/mobile/launcher",
-    "filesContinue": ["settings.ini", "gta_sa.set", "svconfig.ini"],
+    "cdnLauncher": "https://drive.google.com/drive/folders/1Tk6Uhtf96_z_MwqyvJts7CXNxCr14AT3",
+    "filesContinue": [
+        "settings.ini",
+        "gta_sa.set",
+        "svconfig.ini"
+    ],
     "launcher": {
         "appVersion": "0.0.16",
         "name": "app-debug.apk",
