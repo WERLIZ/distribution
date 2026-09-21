@@ -21,8 +21,8 @@
     "packageName": "com.touch.mobile.dark",
     "versionHash": "v1.0",
     "rss": "https://raw.githubusercontent.com/WERLIZ/distribution/main/news.json",
-    "cdnCache": "https://drive.google.com/drive/folders/1Tk6Uhtf96_z_MwqyvJts7CXNxCr14AT3",
-    "cdnLauncher": "https://drive.google.com/drive/folders/1Tk6Uhtf96_z_MwqyvJts7CXNxCr14AT3",
+    "cdnCache": "https://raw.githubusercontent.com/WERLIZ/distribution/main",
+    "cdnLauncher": "https://raw.githubusercontent.com/WERLIZ/distribution/main",
     "filesContinue": [
         "settings.ini",
         "gta_sa.set",
